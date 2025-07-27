@@ -1,0 +1,1 @@
+print("Hello " + input("What is your name? ") + "!") #it first executes the input, then pastes the responses
