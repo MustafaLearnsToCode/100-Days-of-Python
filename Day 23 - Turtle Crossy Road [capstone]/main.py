@@ -14,7 +14,10 @@ car_manager = CarManager()
 scoreboard = Scoreboard()
 
 screen.listen()
-screen.onkey(fun=player.move, key="space")
+screen.onkey(fun=player.move_up, key="Up")
+screen.onkey(fun=player.move_down, key="Down")
+screen.onkey(fun=player.move_left, key="Left")
+screen.onkey(fun=player.move_right, key="Right")
 
 game_is_on = True
 while game_is_on:
