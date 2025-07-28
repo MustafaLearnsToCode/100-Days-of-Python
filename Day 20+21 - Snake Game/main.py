@@ -23,10 +23,10 @@ def start_game():
     game_started = True
 
 screen.listen()
-screen.onkey(lambda: (start_game(), snake.up()), "Up")
-screen.onkey(lambda: (start_game(), snake.down()), "Down")
-screen.onkey(lambda: (start_game(), snake.left()), "Left")
-screen.onkey(lambda: (start_game(), snake.right()), "Right")
+screen.onkey(lambda: (start_game(), snake.up()), "w")
+screen.onkey(lambda: (start_game(), snake.down()), "s")
+screen.onkey(lambda: (start_game(), snake.left()), "a")
+screen.onkey(lambda: (start_game(), snake.right()), "d")
 
 game_on = True
 while game_on:
