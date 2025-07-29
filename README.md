@@ -2,15 +2,16 @@
 
 Following Angela Yu's comprehensive Python bootcamp to build a strong programming foundation.
 
-📊 **Progress: 24/100 Days Complete**
+📊 **Progress: 25/100 Days Complete**
 
-**🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 24%**
+**🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 25%**
 
 ## 🚀 Recent Projects
 
+* **Day 25: The US States Game** - Worked with CSV files to create an educational game on guessing US states
 * **Day 24: Mail merger** - Following file manipulation and file paths to create an email name automater
 * **Day 23: Turtle Crossy Road** - OOP game with collision detection and levels
-* **Day 22: Pong game** - two and single player game with ball physics, and score tracking
+* **Day 22: Pong Game** - two and single player game with ball physics, and score tracking
 * **Day 20-21: Snake Game** - Growing snake classic arcade game with game-over mechnaics
 
 ## 💡 What I've Learned
@@ -18,7 +19,7 @@ Following Angela Yu's comprehensive Python bootcamp to build a strong programmin
 * **Fundamentals:** Variables, if/else, loops, functions, data types
 * **Object-Oriented Programming:** Classes, inheritance, encapsulation
 * **Game Development:** Turtle graphics, collision detection, game logic
-* **File Handling:** Working with files, navigating directories
+* **File Handling:** Working with files and data, using the pandas library
 
 ## 📁 Repository Structure
 
@@ -35,10 +36,10 @@ Following Angela Yu's comprehensive Python bootcamp to build a strong programmin
 
 Each day is organized in its own folder:
 * Practice exercises (loose .py files)
-* Main projects (in project subfolders)
+* Main and mini projects (in project subfolders)
 
-## 🎯 Currently on Day 25
+## 🎯 Currently on Day 26
 
 **Course:** 100 Days of Code - Python Bootcamp by Angela Yu
 
-*Started on: June 33, 2025 | Last Updated: July 28, 2025*
+*Started on: June 33, 2025 | Last Updated: July 29, 2025*
