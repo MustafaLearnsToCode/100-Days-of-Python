@@ -3,6 +3,7 @@ from turtle import Screen
 from player import Player
 from car_manager import CarManager
 from scoreboard import Scoreboard
+from finish_line import Finish
 
 screen = Screen()
 screen.setup(width=600, height=600)
@@ -12,6 +13,7 @@ screen.tracer(0)
 player = Player()
 car_manager = CarManager()
 scoreboard = Scoreboard()
+finish_line = Finish()
 
 screen.listen()
 screen.onkey(fun=player.move_up, key="Up")
@@ -24,6 +26,7 @@ while game_is_on:
     time.sleep(0.1)
     screen.update()
 
+    finish_line.draw_finish_line()
     car_manager.create_car()
     car_manager.move_cars()
 
