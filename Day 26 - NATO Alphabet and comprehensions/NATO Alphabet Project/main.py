@@ -26,5 +26,5 @@ print(nato_dict)
 print(logo)
 print("Welcome to the NATO Alphabet Converter")
 word = input("Please enter your word: ").upper()
-nato_word = [nato_dict[letter] for letter in word]
+nato_word = [f"{letter} for {nato_dict[letter]}" for letter in word]
 print(nato_word)
