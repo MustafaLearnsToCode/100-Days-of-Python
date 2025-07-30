@@ -2,9 +2,9 @@
 
 Following Angela Yu's comprehensive Python bootcamp to build a strong programming foundation.
 
-📊 **Progress: 25/100 Days Complete**
+📊 **Progress: 26/100 Days Complete**
 
-**🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 25%**
+**🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 26%**
 
 ## 🚀 Recent Projects
 
@@ -20,6 +20,7 @@ Following Angela Yu's comprehensive Python bootcamp to build a strong programmin
 * **Object-Oriented Programming:** Classes, inheritance, encapsulation
 * **Game Development:** Turtle graphics, collision detection, game logic
 * **File Handling:** Working with files and data, using the pandas library
+* **List/Dictionary/Dataframe comprehension:** Streamlined code by implemented conditional comprehensions
 
 ## 📁 Repository Structure
 
@@ -38,7 +39,7 @@ Each day is organized in its own folder:
 * Practice exercises (loose .py files)
 * Main and mini projects (in project subfolders)
 
-## 🎯 Currently on Day 26
+## 🎯 Currently on Day 27
 
 **Course:** 100 Days of Code - Python Bootcamp by Angela Yu
 
