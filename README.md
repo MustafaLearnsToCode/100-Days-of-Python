@@ -2,25 +2,28 @@
 
 Following Angela Yu's comprehensive Python bootcamp to build a strong programming foundation.
 
-📊 **Progress: 26/100 Days Complete**
+📊 **Progress: 28/100 Days Complete**
 
-**🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 26%**
+<!--START_PROGRESS_BAR-->
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+<!--END_PROGRESS_BAR-->
 
 ## 🚀 Recent Projects
 
-* **Day 25: The US States Game** - Worked with CSV files to create an educational game on guessing US states
-* **Day 24: Mail merger** - Following file manipulation and file paths to create an email name automater
-* **Day 23: Turtle Crossy Road** - OOP game with collision detection and levels
-* **Day 22: Pong Game** - two and single player game with ball physics, and score tracking
-* **Day 20-21: Snake Game** - Growing snake classic arcade game with game-over mechnaics
+- **Day 28: Pomodoro Timer** – Developed a Tkinter-based productivity app with countdown timers, session tracking, and dynamic UI updates  
+- **Day 25: U.S. States Game** – Created an interactive and educational geography quiz using CSV data handling and turtle for user input  
+- **Day 23: Turtle Crossy Road** – Built an OOP-based arcade game with collision detection, level progression, and dynamic obstacles  
+- **Day 22: Pong Game** – Programmed a single and two-player Pong clone with ball physics, paddle control, and score tracking  
+- **Day 20–21: Snake Game** – Implemented the classic Snake game using OOP principles with growth mechanics and game-over conditions  
 
 ## 💡 What I've Learned
 
-* **Fundamentals:** Variables, if/else, loops, functions, data types
-* **Object-Oriented Programming:** Classes, inheritance, encapsulation
-* **Game Development:** Turtle graphics, collision detection, game logic
-* **File Handling:** Working with files and data, using the pandas library
-* **List/Dictionary/Dataframe comprehension:** Streamlined code by implemented conditional comprehensions
+- **Fundamentals** – Variables, conditionals, loops, functions, and core data types  
+- **Object-Oriented Programming** – Classes, inheritance, encapsulation, and modular code design  
+- **Game & GUI Development** – Built interactive projects using Turtle graphics and Tkinter
+- **Data Handling** – Read/write files, processed CSV data, and used Pandas for analysis  
+- **Comprehensions** – Streamlined code with list, dictionary, and DataFrame comprehensions  
+- **Problem-Solving & Debugging** – Practiced tracing errors and refining logic through various debugging methods 
 
 ## 📁 Repository Structure
 
@@ -39,8 +42,8 @@ Each day is organized in its own folder:
 * Practice exercises (loose .py files)
 * Main and mini projects (in project subfolders)
 
-## 🎯 Currently on Day 27
+## 🎯 Currently on Day 29
 
 **Course:** 100 Days of Code - Python Bootcamp by Angela Yu
 
-*Started on: June 33, 2025 | Last Updated: July 29, 2025*
+*Started on: June 33, 2025 | Last Updated: July 31, 2025*
