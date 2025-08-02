@@ -25,6 +25,15 @@ print(nato_dict)
 #Create a list of the phonetic code words from a word that the user inputs.
 print(logo)
 print("Welcome to the NATO Alphabet Converter")
-word = input("Please enter your word: ").upper()
-nato_word = [f"{letter} as in {nato_dict[letter]}" for letter in word]
-print(nato_word)
+
+def generate_phonetic():
+    word = input("Please enter your word: ").upper()
+    try:
+        nato_word = [f"{letter} as in {nato_dict[letter]}" for letter in word]
+    except KeyError:
+        print("Sorry, only letters in the alphabet please.")
+        generate_phonetic()
+    else:
+        print(nato_word)
+
+generate_phonetic()
