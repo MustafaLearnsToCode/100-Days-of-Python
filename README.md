@@ -4,9 +4,8 @@ Following Angela Yu's comprehensive Python bootcamp to build a strong programmin
 
 📊 **Progress: 29/100 Days Complete**
 
-<!--START_PROGRESS_BAR-->
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-<!--END_PROGRESS_BAR-->
+**🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 29%**
+
 
 ## 🚀 Recent Projects
 
