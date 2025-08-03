@@ -92,9 +92,9 @@ email_label = Label(text="Email/Username:", bg="white")
 email_label.grid(column=0, row=2)
 
 selected_email = StringVar()
-selected_email.set("badshah.mustafa77@gmail.com")
+selected_email.set("test@example.com")
 
-email_menu = OptionMenu(window, selected_email,"badshah.mustafa77@gmail.com","mustafachillin@gmail.com","1948356@fcpsschools.net","avengermustafa7@gmail.com")
+email_menu = OptionMenu(window, selected_email,"test@example.com","user@example.com","sample@example.com","placeholder@example.com")
 email_menu.config(bg="white", highlightbackground="white", width=31)
 email_menu.grid(column=1, row=2, columnspan=2)
 
