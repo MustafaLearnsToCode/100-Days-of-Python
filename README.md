@@ -2,18 +2,18 @@
 
 Following Angela Yu's comprehensive Python bootcamp to build a strong programming foundation.
 
-📊 **Progress: 30/100 Days Complete**
+📊 **Progress: 31/100 Days Complete**
 
-**🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 29%**
+**🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 31%**
 
 
 ## 🚀 Recent Projects
 
-- **Day 29: Password Manager** – Built a GUI password manager in Tkinter using strong password generation, email dropdowns, clipboard auto-copy, search and data storage using json files
+- **Day 31: Flashcard App** - Built a Tkinter flashcard app for learning French vocabulary with timed card flips, progress tracking, and storage using Pandas
+- **Day 29-30: Password Manager** – Built a GUI password manager in Tkinter using strong password generation, email dropdowns, clipboard auto-copy, search and data storage using json files
 - **Day 28: Pomodoro Timer** – Developed a Tkinter-based productivity app with countdown timers, session tracking, and dynamic UI updates  
 - **Day 25: U.S. States Game** – Created an interactive and educational geography quiz using CSV data handling and turtle for user input  
-- **Day 23: Turtle Crossy Road** – Built an OOP-based arcade game with collision detection, level progression, and dynamic obstacles    
-- **Day 20–21: Snake Game** – Implemented the classic Snake game using OOP principles with growth mechanics and game-over conditions  
+- **Day 23: Turtle Crossy Road** – Built an OOP-based arcade game with collision detection, level progression, and dynamic obstacles  
 
 ## 💡 What I've Learned
 
@@ -41,8 +41,8 @@ Each day is organized in its own folder:
 * Practice exercises (loose .py files)
 * Main and mini projects (in project subfolders)
 
-## 🎯 Currently on Day 31
+## 🎯 Currently on Day 32
 
 **Course:** 100 Days of Code - Python Bootcamp by Angela Yu
 
-*Started on: June 33, 2025 | Last Updated: Aug 2, 2025*
+*Started on: June 33, 2025 | Last Updated: Aug 3, 2025*
