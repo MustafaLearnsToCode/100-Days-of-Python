@@ -1,1 +1,13 @@
+# Mac system junk
 .DS_Store
+
+# PyCharm project settings
+.idea/
+
+# Python cache
+__pycache__/
+
+# Environment and secret files for Day 32
+Day 32 - Birthday Wisher using SMTP and Datetime/.env
+Day 32 - Birthday Wisher using SMTP and Datetime/birthday wisher/birthdays.csv
+
