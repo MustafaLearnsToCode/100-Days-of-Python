@@ -7,7 +7,7 @@
 # Python cache
 __pycache__/
 
-# Environment and secret files for Day 32
+# Environment and secret files
 Day 32 - Birthday Wisher using SMTP and Datetime/.env
 Day 32 - Birthday Wisher using SMTP and Datetime/birthday wisher/birthdays.csv
-
+Day 33 - API keys,endpoints and parameters and ISS detector/ISS Overhead Detector/.env
