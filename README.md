@@ -48,4 +48,4 @@ Each day is organized in its own folder:
 
 **Course:** 100 Days of Code - Python Bootcamp by Angela Yu
 
-*Started on: June 33, 2025 | Last Updated: Aug 5, 2025*
+*Started on: June 25, 2025 | Last Updated: Aug 5, 2025*
