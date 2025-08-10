@@ -18,6 +18,9 @@ SHEETS_ENDPOINT = os.getenv("SHEETS_ENDPOINT")
 EMAIL = os.getenv("EMAIL")
 NAME = os.getenv("NAME")
 
+USERNAME = os.getenv("USERNAME")
+PASSWORD = os.getenv("PASSWORD")
+
 stats = input("Enter your exercise details: ")
 
 headers = {
@@ -48,5 +51,5 @@ for i in data["exercises"]:
         }
     }
 
-    response_sheets = requests.post(SHEETS_ENDPOINT, json=sheet_inputs)
+    response_sheets = requests.post(SHEETS_ENDPOINT, json=sheet_inputs, auth=(USERNAME, PASSWORD))
     print(response_sheets.text)
