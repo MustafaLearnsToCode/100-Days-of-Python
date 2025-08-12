@@ -2,13 +2,14 @@
 
 Following Angela Yu's comprehensive Python bootcamp to build a strong programming foundation.
 
-📊 **Progress: 38/100 Days Complete**
+📊 **Progress: 40/100 Days Complete**
 
-**🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 38%**
+**🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 40%**
 
 
 ## 🚀 Recent Projects
 
+- **Day 39+40: Flight Tracker [capstone]** - Utilized multiple APIs to find the bst flight deals and sends them out to a group tracked using google forms and sheets.
 - **Day 36: Stock News Reminder** - Implemented two APIs - Stock and News - to calculate specific stock price changes and recent news artciles in relation, sent through wahtsapp everyday at 7 AM automatically. 
 - **Day 35: Rain Reminder** – Developed rain tracker using OpenWeatherMap API and send WhatsApp messages via Twilio if rain is forecasted, running automatically every day at 7 AM via a cron job.
 - **Day 34: Quiz App Upgrade** – Added trivia API and Tkinter UI to an earlier OOP-based console quiz game with score tracking and feedback  
@@ -49,8 +50,8 @@ Each day is organized in its own folder:
 * Practice exercises (loose .py files)
 * Main and mini projects (in project subfolders)
 
-## 🎯 Currently on Day 39
+## 🎯 Currently on Day 41
 
 **Course:** 100 Days of Code - Python Bootcamp by Angela Yu
 
-*Started on: June 25, 2025 | Last Updated: Aug 11, 2025*
+*Started on: June 25, 2025 | Last Updated: Aug 12, 2025*
