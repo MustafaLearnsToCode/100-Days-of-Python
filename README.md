@@ -1,7 +1,8 @@
 # 100 Days of Python 🐍
 
 Following Angela Yu's comprehensive Python bootcamp to build a strong programming foundation.
-NOTE: The course also features a webdev module covering HTML and CSS fundamentals. 
+
+*NOTE: The course also features a webdev module covering HTML and CSS fundamentals.* 
 
 📊 **Progress: 42/100 Days Complete**
 
