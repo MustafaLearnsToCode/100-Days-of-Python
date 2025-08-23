@@ -4,12 +4,13 @@ Following Angela Yu's comprehensive Python bootcamp to build a strong programmin
 
 *NOTE: The course also features a webdev module covering HTML and CSS fundamentals.* 
 
-📊 **Progress: 44/100 Days Complete**
+📊 **Progress: 45/100 Days Complete**
 
-**🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 44%**
+**🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 45%**
 
 
 ## 🚀 Recent Projects
+- **Day 45: Top 100 Movies** - Used webscraping using BeautifulSoup to compile a list of the top 100 movies and create a txt file to store and edit them. 
 - **Day 44: Kitty Meme** - Styled a one-page meme with styling elements such as borders, margins, padding, custom fonts, selectors and text transform. 
 - **Day 42: Birthday Invite** - Designed a one-page HTML invite with event details, lists, an image, and an embedded Google Maps link for the location.
 - **Day 39+40: Flight Tracker [capstone]** - Utilized multiple APIs to find the bst flight deals and sends them out to a group tracked using google forms and sheets.
@@ -33,7 +34,8 @@ Following Angela Yu's comprehensive Python bootcamp to build a strong programmin
 - **Version Control with Git** – Managed project versions and collaborated using Git and GitHub, resolving merge conflicts and maintaining commit history  
 - **Cron Jobs** – Scheduled Python scripts to run automatically at specified times using cron jobs  
 - **Twilio Integration** – Integrated the Twilio API for sending SMS/WhatsApp messages programmatically  
-- **Environment Management** – Used `.env` files and `python-dotenv` for secure management of sensitive data like API keys  
+- **Environment Management** – Used `.env` files and `python-dotenv` for secure management of sensitive data like API keys
+- **Webscraping** - Webscraped public websites using BeautifulSoup to compile useful information  
 
 ### **HTML + CSS**
 - **Elements and Layout** – Created pages using headings, paragraphs, lists (orderd and unordered), images with alt text, and links.
@@ -62,8 +64,8 @@ Each day is organized in its own folder:
 * Practice exercises (loose .py files)
 * Main and mini projects (in project subfolders with their own files)
 
-## 🎯 Currently on Day 45
+## 🎯 Currently on Day 46
 
 **Course:** 100 Days of Code - Python Bootcamp by Angela Yu
 
-*Started on: June 25, 2025 | Last Updated: Aug 17, 2025*
+*Started on: June 25, 2025 | Last Updated: Aug 23, 2025*
