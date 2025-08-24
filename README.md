@@ -4,20 +4,20 @@ Following Angela Yu's comprehensive Python bootcamp to build a strong programmin
 
 *NOTE: The course also features a webdev module covering HTML and CSS fundamentals.* 
 
-📊 **Progress: 45/100 Days Complete**
+📊 **Progress: 47/100 Days Complete**
 
-**🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 45%**
+**🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 47%**
 
 
 ## 🚀 Recent Projects
+- **Day 47: Amazon Price Tracker** - Web-scraped the amazon website to track a specifc product's price, which will send an email using smtplib when it drops below a target price.
+- **Day 46 Playlist Time Machine** - Web-scraped the billboard's top 100 songs for a specified time to create a playlist for the songs using spotipy.
 - **Day 45: Top 100 Movies** - Used webscraping using BeautifulSoup to compile a list of the top 100 movies and create a txt file to store and edit them. 
 - **Day 44: Kitty Meme** - Styled a one-page meme with styling elements such as borders, margins, padding, custom fonts, selectors and text transform. 
 - **Day 42: Birthday Invite** - Designed a one-page HTML invite with event details, lists, an image, and an embedded Google Maps link for the location.
-- **Day 39+40: Flight Tracker [capstone]** - Utilized multiple APIs to find the bst flight deals and sends them out to a group tracked using google forms and sheets.
-- **Day 36: Stock News Reminder** - Implemented two APIs - Stock and News - to calculate specific stock price changes and recent news artciles in relation, sent through wahtsapp everyday at 7 AM automatically. 
+- **Day 39+40: Flight Tracker [capstone]** - An OOP-based program which utilizes multiple APIs to find the best flight deals and sends them out to a group tracked using google forms and sheets.
 - **Day 35: Rain Reminder** – Developed rain tracker using OpenWeatherMap API and send WhatsApp messages via Twilio if rain is forecasted, running automatically every day at 7 AM via a cron job.
 - **Day 34: Quiz App Upgrade** – Added a trivia API and Tkinter UI to an earlier OOP-based console quiz game with score tracking and feedback.
-- **Day 33: ISS Overhead Notifier** – Implemented APIs to track ISS position and sunlight, sending email alerts when overhead with credentials stored in a `.env` file.
 - **Day 31: Flashcard App** – Built a Tkinter flashcard app for learning French vocabulary with timed card flips, progress tracking, and storage using Pandas.
 
 ## 💡 What I've Learned
@@ -64,8 +64,8 @@ Each day is organized in its own folder:
 * Practice exercises (loose .py files)
 * Main and mini projects (in project subfolders with their own files)
 
-## 🎯 Currently on Day 46
+## 🎯 Currently on Day 48
 
 **Course:** 100 Days of Code - Python Bootcamp by Angela Yu
 
-*Started on: June 25, 2025 | Last Updated: Aug 23, 2025*
+*Started on: June 25, 2025 | Last Updated: Aug 24, 2025*
